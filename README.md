@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w1qdev&label=Profile%20views&color=0e75b6&style=flat" alt="w1qdev" /> </p>
 
 - 🌱 I’m currently learning **React, NextJS, TypeScript, NodeJS**
-- 💬 Ask me about **React, NextJS**
 - 📫 How to reach me **daniilzemla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
