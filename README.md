@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **React, NextJS, TypeScript, NodeJS**
 - 📫 How to reach me **daniilzemla@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
