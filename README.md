@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w1qdev&label=Profile%20views&color=0e75b6&style=flat" alt="w1qdev" /> </p>
 
-- 🌱 I’m currently learning **React, NextJS, TypeScript, NodeJS**
+- 🌱 I’m currently learning **React, SCSS, TypeScript, NodeJS**
 - 📫 How to reach me **daniilzemla@gmail.com**
 
 <p align="left">
